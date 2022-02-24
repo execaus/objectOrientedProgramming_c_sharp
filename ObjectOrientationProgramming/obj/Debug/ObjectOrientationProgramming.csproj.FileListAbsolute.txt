@@ -1,0 +1,7 @@
+C:\Users\execaus\source\repos\ObjectOrientationProgramming\ObjectOrientationProgramming\bin\Debug\ObjectOrientationProgramming.exe.config
+C:\Users\execaus\source\repos\ObjectOrientationProgramming\ObjectOrientationProgramming\bin\Debug\ObjectOrientationProgramming.exe
+C:\Users\execaus\source\repos\ObjectOrientationProgramming\ObjectOrientationProgramming\bin\Debug\ObjectOrientationProgramming.pdb
+C:\Users\execaus\source\repos\ObjectOrientationProgramming\ObjectOrientationProgramming\obj\Debug\ObjectOrientationProgramming.csprojAssemblyReference.cache
+C:\Users\execaus\source\repos\ObjectOrientationProgramming\ObjectOrientationProgramming\obj\Debug\ObjectOrientationProgramming.csproj.CoreCompileInputs.cache
+C:\Users\execaus\source\repos\ObjectOrientationProgramming\ObjectOrientationProgramming\obj\Debug\ObjectOrientationProgramming.exe
+C:\Users\execaus\source\repos\ObjectOrientationProgramming\ObjectOrientationProgramming\obj\Debug\ObjectOrientationProgramming.pdb
